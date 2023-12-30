@@ -14,3 +14,8 @@ This project is a comprehensive analysis and visualization of stock data for Net
 
 - Python 3.8+
 - Libraries: pandas, requests, BeautifulSoup, warnings, etc.
+
+- ### Attributions
+
+- IBM python project
+
